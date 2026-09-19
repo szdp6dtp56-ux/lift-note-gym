@@ -1,0 +1,10 @@
+{
+  "name": "Lift Note",
+  "short_name": "Lift Note",
+  "description": "パーソナルジムのトレーニング記録",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#176b4d"
+}
+
